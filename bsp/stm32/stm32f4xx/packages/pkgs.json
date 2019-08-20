@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "latest", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/cJSON", 
+  "ver": "v1.0.2", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/security/mbedtls", 
+  "ver": "v2.6.0", 
+  "name": "MBEDTLS"
+ }
+]
